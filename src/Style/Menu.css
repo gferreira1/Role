@@ -1,0 +1,21 @@
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #33a306; /* Cor de fundo do menu */
+    color: #fff; /* Cor do texto no menu */
+  }
+  
+  .logo-container {
+    /* Adicione estilos para o contêiner do logo, como largura, altura, etc. */
+  }
+  
+  .button-container {
+    /* Adicione estilos para o contêiner dos botões, como espaçamento, etc. */
+  }
+  
+  button {
+    margin-left: 10px; /* Adicione margem entre os botões */
+  }
+  

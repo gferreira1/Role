@@ -1,0 +1,85 @@
+/* Adicione estilos no seu arquivo CSS */
+.containe {
+    text-align: center;
+}
+
+/* Estilo para o contêiner da lista de dados cadastrados */
+#dadosCadastrados {
+    margin-top: 20px;
+  }
+  
+  /* Estilo para cada cadastro na lista */
+  .cadastroItem {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  /* Estilo para o cabeçalho de cada cadastro */
+  .cadastroHeader {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+
+  label{
+    margin: 5px;
+  }
+
+  select#tIpodecadastro {
+    margin: 5px;
+}
+  
+  /* Estilo para a lista de campos e valores */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Estilo para cada campo e valor na lista */
+  li {
+    margin-bottom: 5px;
+  }
+  
+  /* Estilo para os rótulos dos campos */
+  strong {
+    margin-right: 5px;
+  }
+
+  h3 {
+    text-align: center;
+}
+
+.formulario{
+    text-align: center;
+}
+
+  .cadastro-container {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 15px;
+    /* background-color: #f4f4f452; */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    /* text-align: center; */
+}
+
+.dados-container {
+    max-width: 600px;
+    /* margin: 0 auto; */
+    margin-top: 75px;
+    /* padding: 20px; */
+    /* background-color: #f4f4f4; */
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    /* text-align: center; */
+}
+  
+  .form-container {
+    margin-top: 20px;
+  }
+  
+  .dados-cadastrados {
+    margin-top: 20px;
+  }
+  
